@@ -31,6 +31,7 @@ Quiz interativo desenvolvido no Scratch para identificação de personagens, com
 
 * Análise e Desenvolvimento de Sistemas — cursando
 * Pedagogia — cursando
+* Língua e Literatura Inglesa - 2016
 * Cursos de HTML, CSS, programação, pensamento computacional, Microsoft 365 e inteligência artificial
 
 ## 🎯 Objetivo profissional
